@@ -1,8 +1,9 @@
-iframe {
+video {
     width:50%; 
     min-width: 400px;
     height: 500px;
-    float: center;
+    display:block; 
+    margin:0 auto;
 }
 
 #instructions{
